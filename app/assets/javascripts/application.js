@@ -14,3 +14,4 @@
 //= require jquery_ujs
 //= require jquery.masonry.min.js
 //= require bootstrap
+// require_tree . this is actually commented out. because no = is used
